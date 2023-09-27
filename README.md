@@ -20,4 +20,4 @@ Dichroic shortpass 500 nm Edmund filter plots using the 73 mL cylindrical cuvett
 
 The same dichroic filter above, but without the cuvette (only in air) in "dichroic_shortpass_Edmund_500nm_no_cuvette_comparisons." This includes comparison plots of the above as well.
 
-Dichroic shortpass 450 nm Knight filter plots using the 73 mL cylindrical cuvette in tap water in "dichroic_shortpass_Knight_450nm_coated_noncoated_73mL_cuvette." This has two folders; one for the coated side, one for the non-coated side.
+Dichroic shortpass 450 nm Knight filter plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_shortpass_Knight_450nm_coated_noncoated_73mL_cuvette." This hasfour folders; two for the coated side and two for the non-coated side.
