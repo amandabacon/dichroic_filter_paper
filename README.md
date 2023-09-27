@@ -6,7 +6,7 @@ Absorbing longpass 500 nm Edmund filter plots using the 73 mL cylindrical cuvett
 
 The same absorbing filter above, but without the cuvette (only in air) in "absorbing_longpass_500nm_no_cuvette_air_comparisons." This includes comparison plots of the above as well. 
 
-Raw data from the Lambda 850+ UV/Vis spectrophotometer in .CSV and .TXT formats in "csv_txt_files.
+Raw data from the Lambda 850+ UV/Vis spectrophotometer in .CSV and .TXT formats in "csv_txt_files."
 
 Dichroic longpass 500 nm Edmund filter plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_longpass_Edmund_500nm_73mL_cuvette."
 
