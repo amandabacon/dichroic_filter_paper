@@ -1,6 +1,6 @@
 # Dichroic filter paper data 
 
-This repository houses the:
+This repository contains the following:
 
 Absorbing longpass 500 nm Edmund filter plots using the 73 mL cylindrical cuvette in air and tap water in "absorbing_longpass_500nm_73mL_cuvette."
 
