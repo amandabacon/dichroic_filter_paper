@@ -7,4 +7,4 @@ Some measurements were taken days to months apart. I think the best measurements
 Air: coated_2023_02_02_air and non_coated_2023_02_01_air
 Water: maybe coated_H2O_2023_03_10 and non_coated_H2O_2023_02_06
 
-The H2O data provided in "csv_txt_files" are coated_H2O_2022_12_15 and non_coated_H2O_2022_12_15
+The "unlabelled" (no date) H2O data provided in "csv_txt_files" are coated_H2O_2022_12_15 and non_coated_H2O_2022_12_15. The labelled are, of course, coated_H2O_2023_03_10 and non_coated_H2O_2023_02_06
