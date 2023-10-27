@@ -1,0 +1,1 @@
+Newer data measurements (2022/11/16) using the same longpass dichroic filter as before (Knight longpass 500 nm). These measurements compared to the air and water measurements in a 73 mL cylindrical cuvette. Plots of percent transmission as a function of wavelength for AOIs: 0, 15, 25, 35, 45, 55, 65, 70, and 75 degrees.

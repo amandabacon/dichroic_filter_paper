@@ -1,0 +1,1 @@
+Old data measurements (2021/10/22) using the same longpass absorbing filter as before (absorbing longpass 500 nm). Plots of percent transmission as a function of wavelength for AOIs: 0-75 degrees in increments of 5 degrees.
