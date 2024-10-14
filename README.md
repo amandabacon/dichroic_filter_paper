@@ -44,8 +44,8 @@ This repository contains the following:
 
 - Dichroic shortpass 450 nm Knight filter (EOS 50x50mm) plots in air (no cuvette) in "dichroic_shortpass_Knight_450nm_EOS_coated_noncoated_no_cuvette." 
 
-- Dichroic shortpass ~400 nm (368 nm) Raytum filter (4 in diamter) plots in air (no cuvette) in "dichroic_shortpass_Raytum_4_in_no_cuvette." This has two folders; the "coated" folder contains the coated side information and "substrate" contains sapphire information.
+- Dichroic shortpass ~400 nm (368 nm) Raytum filter (4 in diamter) plots in air (no cuvette) in "dichroic_shortpass_Raytum_4_in_no_cuvette." This has three folders; the "coated" folder contains the coated side information, "substrate" contains sapphire information, "uniformity" contains 0 and 45 deg AOI uniformity measurements.
 
-- Dichroic shortpass ~430 nm (390 nm) Raytum filter (77 mm x 100 mm) plots in air (no cuvette) in "dichroic_shortpass_Raytum_B15_no_cuvette." This has one folder; the "coated" folder contains the coated side information.
+- Dichroic shortpass ~430 nm (390 nm) Raytum filter (77 mm x 100 mm) plots in air (no cuvette) in "dichroic_shortpass_Raytum_B15_no_cuvette." This has two folders; the "coated" folder contains the coated side information and "uniformity" contains 0 and 45 deg AOI uniformity measurements.
 
-- Dichroic shortpass ~450 nm (410 nm) Raytum filter (77 mm x 100 mm) plots in air (no cuvette) in "dichroic_shortpass_Raytum_B23_no_cuvette." This has two folders; the "coated" folder contains the coated side information and "substrate" contains borosilicate glass information.
+- Dichroic shortpass ~450 nm (410 nm) Raytum filter (77 mm x 100 mm) plots in air (no cuvette) in "dichroic_shortpass_Raytum_B23_no_cuvette." This has three folders; the "coated" folder contains the coated side information, "substrate" contains borosilicate glass information, "uniformity" contains 0 and 45 deg AOI uniformity measurements.
