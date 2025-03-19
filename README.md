@@ -2,17 +2,17 @@
 
 This repository contains the following:
 
-- Absorbing longpass 455 nm Edmund (?) filter plot in air (no cuvette) in "absorbing_longpass_455nm_air_no_cuvette."
+- Absorbing longpass 455 nm Edmund (Knight?) filter plot in air (no cuvette) in "absorbing_longpass_455nm_air_no_cuvette."
 
-- Absorbing longpass 475 nm Edmund (?) filter plot in air (no cuvette) in "absorbing_longpass_475nm_air_no_cuvette."
+- Absorbing longpass 475 nm Edmund (Knight?) filter plot in air (no cuvette) in "absorbing_longpass_475nm_air_no_cuvette."
 
-- Absorbing longpass 500 nm Edmund (?) filter plots using the 73 mL cylindrical cuvette in air and tap water in "absorbing_longpass_500nm_73mL_cuvette."
+- Absorbing longpass 500 nm Edmund (Knight?) filter plots using the 73 mL cylindrical cuvette in air and tap water in "absorbing_longpass_500nm_73mL_cuvette."
 
-- Absorbing longpass 500 nm Edmund (?) filter plots in air (no cuvette) in "absorbing_longpass_500nm_no_cuvette."
+- Absorbing longpass 500 nm Edmund (Knight?) filter plots in air (no cuvette) in "absorbing_longpass_500nm_no_cuvette."
 
-- Absorbing longpass 500 nm Edmund (?) filter plots, but they are comparison plots of no cuvette and cuvette measurements in "absorbing_longpass_500nm_no_cuvette_air_H2O_comparisons."
+- Absorbing longpass 500 nm Edmund (Knight?) filter plots, but they are comparison plots of no cuvette and cuvette measurements in "absorbing_longpass_500nm_no_cuvette_air_H2O_comparisons."
 
-- Absorbing longpass 500 nm Edmund (?) filter plots in air (no cuvette--OLD) in "absorbing_longpass_500nm_no_cuvette_OLD."
+- Absorbing longpass 500 nm Edmund (Knight?) filter plots in air (no cuvette--OLD) in "absorbing_longpass_500nm_no_cuvette_OLD."
 
 - Raw data from the Lambda 850+ UV/Vis spectrophotometer in .CSV and .TXT formats of all filters in this repository in "csv_txt_files."
 

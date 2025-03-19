@@ -1,3 +1,3 @@
 Newer data measurements (2022/12/08) using the same shortpass dichroic filter before, those new measurements compared to older measurements in air (no cuvette), those measurements compared to the 73 mL cylindrical cuvette, and those new measurements compared to water.
 
-Newer data measurements (2022/12/08) using the same shortpass dichroic filter as before (Edmund shortpass 500 nm). These measurements compared to the older no cuvette and the air and water measurements in a 73 mL cylindrical cuvette. Plots of percent transmission as a function of wavelength for AOIs: 0, 15, 25, 35, 45, 55, 65, 70, and 75 degrees.
+Newer data measurements (2022/12/08) using the same shortpass dichroic filter as before (Edmund shortpass 500 nm). These measurements compared to the older no cuvette and the air and water measurements in a 73 mL cylindrical cuvette. Plots of fractional transmission as a function of wavelength for AOIs: 0, 15, 25, 35, 45, 55, 65, 70, and 75 degrees.
