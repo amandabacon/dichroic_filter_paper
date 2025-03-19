@@ -26,13 +26,13 @@ This repository contains the following:
 
 - Dichroic longpass 500 nm Edmund filter plots in air (no cuvette--OLD) in "dichroic_longpass_Edmund_500nm_no_cuvette_OLD."
 
-- Dichroic longpass 500 nm Knight filter plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_longpass_Knight_500nm_73_mL_cuvette."
+- Dichroic longpass 500 nm Knight filter plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_longpass_Knight_500nm_73mL_cuvette."
 
 - Dichroic longpass 500 nm Knight filter plot in air (no cuvette) in "dichroic_longpass_Knight_500nm_no_cuvette." 
 
 - Dichroic longpass 500 nm Knight filter plots, but they are comparison plots of no cuvette and cuvette measurements in "dichroic_longpass_Knight_500nm_no_cuvette_air_H2O_comparisons."
 
-- Dichroic shortpass 500 nm Edmund filter plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_shortpass_Edmund_500nm_73_mL_cuvette." 
+- Dichroic shortpass 500 nm Edmund filter plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_shortpass_Edmund_500nm_73mL_cuvette." 
 
 - Dichroic shortpass 500 nm Edmund filter plot in air (no cuvette) in "dichroic_shortpass_Edmund_500nm_no_cuvette." 
 
