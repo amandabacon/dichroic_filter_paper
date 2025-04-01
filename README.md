@@ -50,4 +50,6 @@ This repository contains the following:
 
 - Dichroic shortpass ~450 nm (408 nm) Raytum filter (77 mm x 100 mm) plots in air (no cuvette) in "dichroic_shortpass_Raytum_B23_no_cuvette." This has three folders; the "coated" folder contains the coated side information, "substrate" contains borosilicate glass information, "uniformity" contains 0 and 45 deg AOI uniformity measurements.
 
-- Raw data from the Lambda 850+ UV/Vis spectrophotometer in .XLSX, .CSV, and .TXT formats of all filters in this repository in "xlsx_csv_txt_files."
+- Dichroic shortpass Raytum filter plots in air (no cuvette) using the reflectivity setup in "reflectivity_setup."
+
+- Raw data from the Lambda 850+ UV/Vis spectrophotometer in .XLSX, .CSV, and .TXT formats of all filters (includes reflectivity setup Raytum data) in this repository in "xlsx_csv_txt_files."
