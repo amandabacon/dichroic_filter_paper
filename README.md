@@ -40,7 +40,7 @@ This repository contains the following:
 
 - Dichroic shortpass 450 nm Knight filter plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_shortpass_Knight_450nm_coated_noncoated_73mL_cuvette." This has six folders; three for the coated side and three for the non-coated side.
 
-- Dichroic shortpass 450 nm Knight filter (EOS 50x50mm) plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_shortpass_Knight_450nm_EOS_coated_noncoated_73mL_cuvette." This has four folders; two for the coated side and two for the non-coated side.
+- Dichroic shortpass 450 nm Knight filter (EOS 50x50mm) plots using the 73 mL cylindrical cuvette in air and tap water in "dichroic_shortpass_Knight_450nm_EOS_coated_noncoated_73mL_cuvette." This has six folders; two for the coated side, two for the non-coated side, and two for DI water.
 
 - Dichroic shortpass 450 nm Knight filter (EOS 50x50mm) plots in air (no cuvette) in "dichroic_shortpass_Knight_450nm_EOS_coated_noncoated_no_cuvette." 
 
